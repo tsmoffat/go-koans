@@ -1,0 +1,7 @@
+Add in some automation to the testing to make it more like the elixir koans
+
+Look at fsnotify for the monitoring of file saving then import the test and catch any errors, display them but keep running
+
+End goal is similar to the elixir ones, with a better file structure and stuff
+
+Maybe I can make the whole thing just more efficient as well?
